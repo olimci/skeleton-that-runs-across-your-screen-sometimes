@@ -1,0 +1,7 @@
+/target/
+/result
+/result-*
+
+# Local source clips and extracted video intermediates
+/clips/
+.DS_Store
