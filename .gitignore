@@ -5,3 +5,6 @@
 # Local source clips and extracted video intermediates
 /clips/
 .DS_Store
+
+.direnv/
+.envrc
