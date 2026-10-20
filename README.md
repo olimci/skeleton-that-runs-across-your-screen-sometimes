@@ -1,3 +1,5 @@
+![You can only think of haloween until you die](haloween.png)
+
 # nixos service that makes a skeleton run across your screen sometimes
 
 as described in the title.
